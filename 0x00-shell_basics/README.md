@@ -10,3 +10,4 @@ Delete a file
 Delete a directory
 Changing working directory to previous one
 To list all files
+File type
