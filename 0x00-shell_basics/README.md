@@ -12,3 +12,4 @@ Changing working directory to previous one
 To list all files
 File type
 Creating symbols and inhabit symbols
+Copy HTLM files
