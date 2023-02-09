@@ -6,3 +6,4 @@ Create an empty file
 Excutes permission to the owner of the file
 Mutliple permission
 Permission to everybody
+James bond
