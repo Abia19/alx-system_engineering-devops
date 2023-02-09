@@ -7,3 +7,4 @@ Excutes permission to the owner of the file
 Mutliple permission
 Permission to everybody
 James bond
+Setting the mode of a file
