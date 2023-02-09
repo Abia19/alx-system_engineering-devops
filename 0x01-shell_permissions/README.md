@@ -13,3 +13,4 @@ Directories
 More directories
 Changing group
 Owner and group
+Symbolic link
