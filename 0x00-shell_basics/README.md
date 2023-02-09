@@ -14,3 +14,4 @@ File type
 Creating symbols and inhabit symbols
 Copy HTLM files
 Lets move
+Cleaning Emacs
