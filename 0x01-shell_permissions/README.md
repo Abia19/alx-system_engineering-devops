@@ -8,3 +8,4 @@ Mutliple permission
 Permission to everybody
 James bond
 Setting the mode of a file
+Lookimg in the mirror
