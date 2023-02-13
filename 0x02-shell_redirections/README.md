@@ -4,3 +4,4 @@ Displaying files
 What of two
 Last line of a file
 list of first lines
+Displaying thrired line
