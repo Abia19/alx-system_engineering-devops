@@ -19,3 +19,5 @@ I hate bins
 letters only please
 A to Z
 Without c
+Reverse input
+Displays all users
