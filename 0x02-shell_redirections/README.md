@@ -18,3 +18,4 @@ Whats next
 I hate bins
 letters only please
 A to Z
+Without c
