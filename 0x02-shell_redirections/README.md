@@ -7,3 +7,4 @@ list of first lines
 Displaying thrired line
 Creating a file
 save current state of directory
+Duplicate last line
